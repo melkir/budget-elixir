@@ -19,11 +19,11 @@ And the output should look like this:
 
 ```
 Transactions:
-01/03/2017 Netflix $9.99
-01/04/2017 Publix $53.39
-01/04/2017 Car Payment $320.01
-01/03/2017 Credit Card $538.00
-01/01/2017 Rent $1000.00
+01/03/2017 Netflix      $9.99
+01/04/2017 Publix       $53.39
+01/04/2017 Car Payment  $320.01
+01/03/2017 Credit Card  $538.00
+01/01/2017 Rent         $1000.00
 ```
 
 ## Running
